@@ -11,4 +11,4 @@ group :test do
   gem "rspec"
 end
 
-gem "awesome_print", :git => ""
+gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print.git"
