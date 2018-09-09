@@ -11,5 +11,5 @@ group :test do
   gem "rspec"
 end
 
-source "https://github.com/awesome-print/awesome_print.git"
+source "https://github.com/"
 gem "awesome_print"
