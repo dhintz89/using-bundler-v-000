@@ -11,4 +11,4 @@ group :test do
   gem "rspec"
 end
 
-gem "awesome_print"
+gem "awesome_print", :git
